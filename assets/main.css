@@ -234,7 +234,7 @@ body {
   position: absolute;
   top: 131px;
   right: 25px;
-  left: 80px;
+  left: 60px;
   color:white;
   font-size:16px;
 }
@@ -419,7 +419,7 @@ body {
   position: absolute;
   top: 140px;
   right: -97px;
-  left: 35px;
+  left: 10px;
   color: white;
   font-size:16px;
   margin-left: 233px;
@@ -751,10 +751,263 @@ color:black;
 /*-------------------------------------------------*/
 
 
+.text_2 {
+  padding-top:60px;
+  padding-left:16px;
+  font-size:24px;
+  
+}
 
 
 
+/*-----------------------story_1--------------------------*/
 
+
+.story_1 {
+  display: inline-block;
+  padding: 25px 0px;
+  height: 120px;
+  font-size: 16px;
+  background-color:#F2F5F7;
+  width: 70%;
+  margin-top: 25px;
+  cursor:pointer;
+  border-radius: 2px;
+}
+
+.story_1 img  {
+  float:left;
+  margin: -24px 10px 0 -2px;
+  height:120px;
+  width:100px;
+  cursor:pointer;
+  box-shadow:2px 4px 5px black;
+
+}
+
+
+.story_1 b {
+  margin-left: 5px;
+  margin-bottom: 44px;
+  position: relative;
+  bottom: 10px;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+
+.story_1 a,b:active,:visited {
+  color:black;
+  
+  }
+
+
+  .story_1:hover {
+    box-shadow:2px 4px 5px black;
+    border:none;
+    transition:0.3s;
+    transition-delay: 0.5;
+  }
+
+/*------------story_2------------*/
+
+
+.story_2 {
+  display: inline-block;
+  padding: 25px 0px;
+  height: 120px;
+  font-size: 16px;
+  background-color:#F2F5F7;
+  width: 70%;
+  margin-top: 25px;
+  cursor:pointer;
+  border-radius: 2px;
+}
+
+.story_2 img  {
+  float:left;
+  margin: -24px 10px 0 -2px;
+  height:120px;
+  width:100px;
+  cursor:pointer;
+  box-shadow:2px 4px 5px black;
+
+}
+
+
+.story_2 b {
+  margin-left: 5px;
+  margin-bottom: 44px;
+  position: relative;
+  bottom: 10px;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+
+.story_2 a,b:active,:visited {
+  color:black;
+  
+  }
+
+
+  .story_2:hover {
+    box-shadow:2px 4px 5px black;
+    border:none;
+    transition:0.3s;
+    transition-delay: 0.5;
+  }
+
+
+
+/*---------------story_3-----------------*/
+
+
+.story_3 {
+  display: inline-block;
+  padding: 25px 0px;
+  height: 120px;
+  font-size: 16px;
+  background-color:#F2F5F7;
+  width: 70%;
+  margin-top: 25px;
+  cursor:pointer;
+  border-radius: 2px;
+}
+
+.story_3 img  {
+  float:left;
+  margin: -24px 10px 0 -2px;
+  height:120px;
+  width:100px;
+  cursor:pointer;
+  box-shadow:2px 4px 5px black;
+
+}
+
+
+.story_3 b {
+  margin-left: 5px;
+  margin-bottom: 44px;
+  position: relative;
+  bottom: 10px;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+
+.story_3 a,b:active,:visited {
+  color:black;
+  
+  }
+
+
+  .story_3:hover {
+    box-shadow:2px 4px 5px black;
+    border:none;
+    transition:0.3s;
+    transition-delay: 0.5;
+  }
+
+  /*------story_4-----*/
+
+
+  .story_4 {
+    display: inline-block;
+    padding: 25px 0px;
+    height: 120px;
+    font-size: 16px;
+    background-color:#F2F5F7;
+    width: 70%;
+    margin-top: 25px;
+    cursor:pointer;
+    border-radius: 2px;
+  }
+  
+  .story_4 img  {
+    float:left;
+    margin: -24px 10px 0 -2px;
+    height:120px;
+    width:100px;
+    cursor:pointer;
+    box-shadow:2px 4px 5px black;
+  
+  }
+  
+  
+  .story_4 b {
+    margin-left: 5px;
+    margin-bottom: 44px;
+    position: relative;
+    bottom: 10px;
+    text-decoration:none;
+    cursor: pointer;
+  }
+  
+  
+  .story_4 a,b:active,:visited {
+    color:black;
+    
+    }
+  
+  
+    .story_4:hover {
+      box-shadow:2px 4px 5px black;
+      border:none;
+      transition:0.3s;
+      transition-delay: 0.5;
+    }
+    
+
+ /*------story_5-----*/
+
+
+
+ .story_5 {
+  display: inline-block;
+  padding: 25px 0px;
+  height: 120px;
+  font-size: 16px;
+  background-color:#F2F5F7;
+  width: 70%;
+  margin-top: 25px;
+  cursor:pointer;
+  border-radius: 2px;
+}
+
+.story_5 img  {
+  float:left;
+  margin: -24px 10px 0 -2px;
+  height:120px;
+  width:100px;
+  cursor:pointer;
+  box-shadow:2px 4px 5px black;
+
+}
+
+
+.story_5 b {
+  margin-left: 5px;
+  margin-bottom: 44px;
+  position: relative;
+  bottom: 10px;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+
+.story_5 a,b:active,:visited {
+  color:black;
+  
+  }
+
+
+  .story_5:hover {
+    box-shadow:2px 4px 5px black;
+    border:none;
+    transition:0.3s;
+    transition-delay: 0.5;
+  }
 
 
   /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
